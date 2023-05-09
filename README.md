@@ -1,6 +1,6 @@
 ### Hi, i'm Daniel.
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently studying data science
 - 📫 How to reach me: danibfernandesa@gmail.com
 - 😄 Pronouns: He/Him
 
